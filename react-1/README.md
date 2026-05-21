@@ -102,7 +102,7 @@ npm install tailwindcss @tailwindcss/vite
 ## Step 1: Clone the Repository
 
 ```bash
-git clone <your-repository-link>
+git clone https://github.com/ritesh-mogilamoni/react-demos
 ```
 
 ---
